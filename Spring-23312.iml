@@ -3,10 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/spring/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Spring-23312/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.7" level="project" />
   </component>
 </module>
