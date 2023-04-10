@@ -1,7 +1,5 @@
 package lambdasYStreams;
 
-package lambdasYStreams;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.OptionalDouble;
@@ -117,8 +115,6 @@ public class Main {
         union.addAll(arrayNombresNuevos);
 
         union.forEach(System.out::println);
-
-
 
     }
 }

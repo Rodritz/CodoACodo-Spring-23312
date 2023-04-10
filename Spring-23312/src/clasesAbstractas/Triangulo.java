@@ -2,9 +2,12 @@ package clasesAbstractas;
 
 import lombok.*;
 
+@Data
+@Getter
+@Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@Setter @Getter @Data
+
 public class Triangulo extends Figura implements Dibujable{
 
     private Double base;

@@ -2,6 +2,7 @@ package clasesAbstractas;
 
 import lombok.*;
 
+@Data
 @Getter
 @Setter
 @AllArgsConstructor

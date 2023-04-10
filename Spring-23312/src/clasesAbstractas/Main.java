@@ -5,7 +5,7 @@ public class Main {
 
         Triangulo t1 = new Triangulo(2.0,4.0);
 
-        Cuadrado c1 = new Cuadrado(4);
+        Cuadrado c1 = new Cuadrado(4.0);
 
         Figura f = new Cuadrado(2);
 
